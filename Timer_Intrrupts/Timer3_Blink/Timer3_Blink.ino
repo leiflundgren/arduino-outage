@@ -1,7 +1,7 @@
 // Visual Micro is in vMicro>General>Tutorial Mode
 // 
 /*
-    Name:       MeasureSquareWave.ino
+    Name:       Timer3_Blink.ino
     Created:	2018-11-11 13:34:26
     Author:     CALCITE\leifl
 */
