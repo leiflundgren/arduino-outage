@@ -1,4 +1,7 @@
-Variant of basic samples Arduino\examples\01.Basics\Blink
-But using Timer1-interupt to know when to on/off LED
+Generate square wave on 50Hz using digital out. 
+On breadboard connect output to analog input, with a condensator between, which should "round" the square.
+Measure for a few seconds. Dump output on serial.
 
-Modified code from https://www.instructables.com/id/Arduino-Timer-Interrupts/ to blink 3 times per second
+Modified code from https://www.instructables.com/id/Arduino-Timer-Interrupts/ for interrupt samples
+
+
